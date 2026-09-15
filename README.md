@@ -8,6 +8,7 @@ To use VANTA go to the branch where the fully assembled .Zip file is assembled r
 # REQUIREMENTS
 
 Python 2.16 above
+
 Windows OS (7-11)
 
 # Controls
